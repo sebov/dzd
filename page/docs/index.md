@@ -1,3 +1,9 @@
 ## Laboratory Classes 2025/2026
 
 * Lab-01 - *Techniques for Handling Large Datasets in Classification* - [lab-01.ipynb](https://github.com/sebov/dzd/blob/main/labs/lab-01/lab-01.ipynb)
+* Lab-02 - *Techniques for Handling Large Datasets in Clustering*
+* Lab-03 - *Similarity Search in Large Datasets - Locality-Sensitive Hashing (LSH) with Random Projection*
+* Lab-04 - *Similarity Search in Large Datasets - LSH with Shingling, MinHashing and Banding*
+* Lab-05 - *Scalable Computations with the MapReduce Framework - Introduction*
+* Lab-06 - *Scalable Computations with the MapReduce Framework - Processing Large Datasets*
+* Lab-07 - *Model Prediction Speed*
