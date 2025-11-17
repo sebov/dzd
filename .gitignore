@@ -209,3 +209,5 @@ __marimo__/
 .continue/
 **/data/
 page/site
+
+*.zip
