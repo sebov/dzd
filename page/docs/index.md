@@ -12,4 +12,5 @@
   [lab-05.ipynb](https://github.com/sebov/dzd/blob/main/labs/lab-05/lab-05.ipynb)
 * Lab-06 - *Scalable Computations with the MapReduce Framework - Processing Large Datasets* -
   [lab-06.ipynb](https://github.com/sebov/dzd/blob/main/labs/lab-06/lab-06.ipynb)
-* Lab-07 - *Model Prediction Speed*
+* Lab-07 - *Model Prediction Speed* -
+  [lab-07.ipynb](https://github.com/sebov/dzd/blob/main/labs/lab-07/lab-07.ipynb)
