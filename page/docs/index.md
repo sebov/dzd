@@ -21,4 +21,3 @@
 * Lab-11 - *Association Rule Learning - Apriori Algorithm*
 * Lab-12 - *Association Rule Learning - FP-Growth Algorithm*
 * Lab-13 - *Multimodal Data Exploration*
-
