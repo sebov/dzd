@@ -16,7 +16,8 @@
   [lab-07.ipynb](https://github.com/sebov/dzd/blob/main/labs/lab-07/lab-07.ipynb)
 * Lab-08 - *Model Prediction Speed of Deep Neural Networks* -
   [lab-08.ipynb](https://github.com/sebov/dzd/blob/main/labs/lab-08/lab-08.ipynb)
-* Lab-09 - *Data Quality Monitoring*
+* Lab-09 - *Data Quality Monitoring* -
+  [lab-09.ipynb](https://github.com/sebov/dzd/blob/main/labs/lab-09/lab-09.ipynb)
 * Lab-10 - *Data Quality Driven Machine Learning Systems*
 * Lab-11 - *Association Rule Learning - Apriori Algorithm*
 * Lab-12 - *Association Rule Learning - FP-Growth Algorithm*
