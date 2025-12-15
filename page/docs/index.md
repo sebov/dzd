@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  # - toc
+---
+
 ## Laboratory Classes 2025/2026
 
 * Lab-01 - *Techniques for Handling Large Datasets in Classification* - 
