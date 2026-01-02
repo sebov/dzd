@@ -602,19 +602,19 @@ wheels = [
 
 [[package]]
 name = "deeplake"
-version = "4.4.3"
+version = "4.4.4"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "deepframe" },
     { name = "numpy" },
 ]
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/4e/e5/a5eac0f0315a4cd16d06d827a0779aa22c4196a5cb93bf508f44655f0305/deeplake-4.4.3-cp312-cp312-macosx_11_0_arm64.whl", hash = "sha256:c237d0a95d90ef2df57d840edb296e67b89c27ac345ffa1c97741ff89d5b387d", size = 33191940, upload-time = "2025-12-10T08:46:54.534Z" },
-    { url = "https://files.pythonhosted.org/packages/55/2d/9392640c1b3a4a5c5ff791c110081df191836a9fc98ccef56bba5178d28f/deeplake-4.4.3-cp312-cp312-manylinux2014_aarch64.whl", hash = "sha256:0ff328e8005e20691f0e1eaf0ebbcff601d092296bc9aa17184c848a7e7a6676", size = 36678153, upload-time = "2025-12-10T08:47:03.144Z" },
-    { url = "https://files.pythonhosted.org/packages/23/1d/96093d526dfb9ce0f11048b172e4fea835e2dd1b3846a5e48086fe8f4818/deeplake-4.4.3-cp312-cp312-manylinux2014_x86_64.whl", hash = "sha256:5a6143a540b4f2b045809c62d4ffb23206c1ac5f413bc662918569c75c111c32", size = 38632627, upload-time = "2025-12-10T08:47:12.474Z" },
-    { url = "https://files.pythonhosted.org/packages/28/1d/9b65fe9c5139d64b09c4184776960838f3e7e7f962c8e639e7c0c6332d5b/deeplake-4.4.3-cp313-cp313-macosx_11_0_arm64.whl", hash = "sha256:3a6d7491e20d97941d90eebf6274fa73030cb271b18e376d451d15724cece8cc", size = 33191775, upload-time = "2025-12-10T08:47:20.854Z" },
-    { url = "https://files.pythonhosted.org/packages/36/5f/0310209445dad1facb8ca79c0dac9a906f4568bc9c3be44ff619f6ea7a4a/deeplake-4.4.3-cp313-cp313-manylinux2014_aarch64.whl", hash = "sha256:a57712e633d34f9ce7fae98a862462520cabdaa85da1d3179f33b5d03e7cfc48", size = 36678352, upload-time = "2025-12-10T08:47:31.107Z" },
-    { url = "https://files.pythonhosted.org/packages/b3/cf/dd4e2022d43670fb848bc8367159651f58e6680b1b78fafa09bdfc865cfd/deeplake-4.4.3-cp313-cp313-manylinux2014_x86_64.whl", hash = "sha256:65bf66685c122a8f0b4432d1f3e4bbedbe573e228c22474dc5b4f0fba7b4759a", size = 38632651, upload-time = "2025-12-10T08:47:40.196Z" },
+    { url = "https://files.pythonhosted.org/packages/34/f0/526c41a284727ae349051f3cc3fa836a7b792605e0c01c049cac6b17d06c/deeplake-4.4.4-cp312-cp312-macosx_11_0_arm64.whl", hash = "sha256:ea68a4db7c6a9ad6be9e108cff444085c2ab1a9ff15a9c83b2d855ea257f3aa0", size = 32784280, upload-time = "2025-12-25T06:11:57.634Z" },
+    { url = "https://files.pythonhosted.org/packages/d2/28/da2b2a8b9ed76cd8703dcf0f8d584c7b0b3ff32d12a5598918b10d171152/deeplake-4.4.4-cp312-cp312-manylinux2014_aarch64.whl", hash = "sha256:86fdb031f8da3217b9bda60e489d159d1b8ca67c815e08a2ae4da14d9bc2108a", size = 36636647, upload-time = "2025-12-25T06:12:03.518Z" },
+    { url = "https://files.pythonhosted.org/packages/c2/07/da171025add841ae7f1bcaa9d051631a653fda52fcad8c839b04e57e1c14/deeplake-4.4.4-cp312-cp312-manylinux2014_x86_64.whl", hash = "sha256:692317ff98d701b82d772a96c7340ced718e4f213dcfbf504ee60babfde48de5", size = 38586123, upload-time = "2025-12-25T06:12:08.416Z" },
+    { url = "https://files.pythonhosted.org/packages/69/3b/6001ee1b4aeb0f37f1320ef1ba322f8f2828f98d9cabc399171adecc7e95/deeplake-4.4.4-cp313-cp313-macosx_11_0_arm64.whl", hash = "sha256:8268087467c7d8808cfd913ff059da8d387fc8163310c8839d65a9ac99834ed0", size = 32783228, upload-time = "2025-12-25T06:12:12.293Z" },
+    { url = "https://files.pythonhosted.org/packages/8f/f2/761d4be7fbc4376b46baafd5dc49a00a5bfb533f60dea4915d22007d055f/deeplake-4.4.4-cp313-cp313-manylinux2014_aarch64.whl", hash = "sha256:e1cb1ec60e74da7c58a33b28181c668196be9d587de3694b82b6ca542f03c2c3", size = 36638571, upload-time = "2025-12-25T06:12:16.223Z" },
+    { url = "https://files.pythonhosted.org/packages/3a/46/2965699728f8ba71835f57a0163de8fc20b72ef1e446cf04f69414de86bf/deeplake-4.4.4-cp313-cp313-manylinux2014_x86_64.whl", hash = "sha256:a420e185538d5fd1ec404d30d276444a0e86bfed8ddf8698997c6a0d283255c3", size = 38586516, upload-time = "2025-12-25T06:12:20.755Z" },
 ]
 
 [[package]]
@@ -651,7 +651,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "deeplake", specifier = ">=4.4.3" },
+    { name = "deeplake", specifier = ">=4.4.4" },
     { name = "fastparquet", specifier = ">=2024.11.0" },
     { name = "great-expectations", specifier = ">=1.9.2" },
     { name = "ipykernel", specifier = ">=7.1.0" },
