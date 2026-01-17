@@ -30,4 +30,5 @@ hide:
   [lab-11.ipynb](https://github.com/sebov/dzd/blob/main/labs/lab-11/lab-11.ipynb)
 * Lab-12 - *Association Rule Learning - FP-Growth Algorithm* -
   [lab-12.ipynb](https://github.com/sebov/dzd/blob/main/labs/lab-12/lab-12.ipynb)
-* Lab-13 - *Multimodal Data Exploration*
+* Lab-13 - *Multimodal Data Exploration* -
+  [lab-13.ipynb](https://github.com/sebov/dzd/blob/main/labs/lab-13/lab-13.ipynb)
